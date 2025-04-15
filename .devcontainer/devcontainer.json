@@ -1,0 +1,9 @@
+query_id: 17286061478147420000
+amount: "1400000000"
+sender: 0:083f5705d152b50297485dde1130bbe5e8553dc91b21a1e3d648cfe1e501a74c
+forward_payload:
+  is_right: false
+  value: {}{
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {}
+}
